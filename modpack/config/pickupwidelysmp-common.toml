@@ -1,0 +1,18 @@
+
+#net.minecraft.scalar.pickupwidely.mod_PickupWidelySMP
+[configuration]
+	#String: "KEY_P"
+	Key = "KEY_P"
+	#Boolean: true
+	StartMode = true
+	#Double: 2.0
+	horizontal = 3.0
+	#Double: 1.0
+	vertical = 2.0
+	#Boolean: false
+	select = false
+	#String: ""
+	itemIds = ""
+	#String: "mod_pickupwidel"
+	channelName = "mod_pickupwidel"
+
