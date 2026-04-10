@@ -6,9 +6,9 @@
 	#Boolean: true
 	StartMode = true
 	#Double: 2.0
-	horizontal = 3.0
+	horizontal = 5.0
 	#Double: 1.0
-	vertical = 2.0
+	vertical = 3.0
 	#Boolean: false
 	select = false
 	#String: ""
